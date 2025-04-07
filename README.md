@@ -58,29 +58,29 @@ SIR_ML_MODEL/
 
 ## Getting Started
 
--Clone the repo:
--git clone https://github.com/Awshae/SIR_ML_MODEL.git
--Install dependencies:
--pip install -r requirements.txt
--Run the notebook:
--Open notebooks/main.ipynb and run all cells to train or evaluate the SIRNet model.
+- Clone the repo:
+- git clone https://github.com/Awshae/SIR_ML_MODEL.git
+- Install dependencies:
+- pip install -r requirements.txt
+- Run the notebook:
+- Open notebooks/main.ipynb and run all cells to train or evaluate the SIRNet model.
 
 ---
 
 ## Results
 
- -High R² values for all three compartments (S, I, R)
- -Accurate prediction of epidemic curves for various β-γ combinations
- -Smooth learned dynamics with visual plots comparing true vs predicted values
+ - High R² values for all three compartments (S, I, R)
+ - Accurate prediction of epidemic curves for various β-γ combinations
+ - Smooth learned dynamics with visual plots comparing true vs predicted values
 
 ---
 
 ## Future Work
 
- -Add support for symbolic regression (e.g., using PySR)
- -Incorporate neural differential equation layers (Neural ODEs)
- -Allow uncertainty quantification over stochastic simulations
- -Make the model interactive via a web app
+ - Add support for symbolic regression (e.g., using PySR)
+ - Incorporate neural differential equation layers (Neural ODEs)
+ - Allow uncertainty quantification over stochastic simulations
+ - Make the model interactive via a web app
  
  ---
 
