@@ -46,13 +46,13 @@ Where:
 SIR_ML_MODEL/
 ├── data/
 │   └── processed/
-│       └── sir_mean.csv       # Preprocessed mean (S, I, R) dataset
+│       └── sir_mean.csv      
 ├── models/
-│   └── sir_mlp.pt             # Trained PyTorch model
+│   └── sir_mlp.pt             
 ├── notebooks/
-│   └── main.ipynb             # Full training + evaluation notebook
-├── requirements.txt           # Python dependencies
-└── README.md                  # You're here!
+│   └── main.ipynb             
+├── requirements.txt          
+└── README.md                  
 ```
 ---
 
