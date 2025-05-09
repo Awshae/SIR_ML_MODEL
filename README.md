@@ -73,18 +73,6 @@ SIR_ML_MODEL/
  - Accurate prediction of epidemic curves for various β-γ combinations
  - Smooth learned dynamics with visual plots comparing true vs predicted values
 
----
 
-## Future Work
 
- - Add support for symbolic regression (e.g., using PySR)
- - Incorporate neural differential equation layers (Neural ODEs)
- - Allow uncertainty quantification over stochastic simulations
- - Make the model interactive via a web app
- 
- ---
-
-## Contributing
-
-Want to improve the model, add symbolic capabilities, or enhance the visualizations? Open a pull request or issue!
 
